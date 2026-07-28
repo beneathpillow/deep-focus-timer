@@ -1,0 +1,18 @@
+Study Timer
+
+Goal:
+Create a simple timer that counts down a study session and then a break.
+
+Version 1:
+1. Ask the user for the study time in minutes.
+2. Convert minutes into seconds.
+3. Count down once every second.
+4. Display the remaining time as minutes and seconds.
+5. Print a message when the timer finishes.
+
+Possible later features:
+- Break timer
+- Multiple study sessions
+- Pause option
+- Study history
+- Different subjects

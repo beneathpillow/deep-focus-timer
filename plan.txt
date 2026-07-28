@@ -16,3 +16,4 @@ Possible later features:
 - Pause option
 - Study history
 - Different subjects
+- personal time mode
